@@ -8,7 +8,6 @@ Data Visualization - PowerBI
 
 # Questions
 What is the gender breakdown of employees in the company?
-
 What is the race/ethnicity breakdown of employees in the company?
 
 What is the age distribution of employees in the company?
