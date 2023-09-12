@@ -4,7 +4,7 @@ Data - Top Movies DataSet from Kaggle.com with over 1100 rows from the year 1902
 
 Data Cleaning & Analysis - MySQL Workbench
 
-Data Visualization - PowerBI
+Data Visualization - PowerBI 
 
 # Questions
 
