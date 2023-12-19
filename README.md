@@ -1,4 +1,7 @@
 # Portfolio Project SQL and Power BI for the Top Rated Movies
+
+![Movies Dashboard](https://github.com/mumer97/TopMoviesDashboard/assets/126639393/1adb544d-847a-40ac-8a05-76456c89d21a)
+
 # Data Used
 Data - Top Movies DataSet from Kaggle.com with over 1100 rows from the year 1902 to 2023.
 
